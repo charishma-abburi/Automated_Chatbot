@@ -4,9 +4,9 @@
 A new Flutter project.
 
 ## Preview
-![](images/screenshot1.jpeg)
+<img src="images/screenshot1.jpeg" width=50>
 
-![](images/screenshot2.jpeg)
+<img src="images/screenshot2.jpeg" width=50>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
