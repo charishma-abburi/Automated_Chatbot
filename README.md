@@ -3,6 +3,10 @@
 
 A new Flutter project.
 
+## Preview
+![](images/screenshot1.jpeg)
+
+![](images/screenshot2.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
