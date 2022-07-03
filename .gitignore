@@ -38,7 +38,7 @@ android/
 build/
 ios/
 linux/
-macocs/
+macos/
 web/
 windows/
 # Web related
