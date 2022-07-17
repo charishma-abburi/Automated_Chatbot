@@ -4,9 +4,9 @@
 A new Flutter project.
 
 ## Preview
-<img src="images/screenshot1.jpeg" width=150>
+<img src="images/screenshot1.jpeg" width=200>
 
-<img src="images/screenshot2.jpeg" width=150>
+<img src="images/screenshot2.jpeg" width=200>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
