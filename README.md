@@ -1,14 +1,16 @@
 
 # Automated_chat_bot
 
-A new Flutter project.
-An app in which user can chat with an AI bot which will generate smart replies to user’s message.
+A new Flutter project.<br/>
+
+<h4> An app in which user can chat with an AI bot which will generate smart replies to user’s message.</h4>
 
 ## Preview
 <img src="images/screenshot1.jpeg" width=200>
 
 <img src="images/screenshot2.jpeg" width=200>
-### Getting Started
+
+<h3>Getting Started</h3>
 
 This project is a starting point for a Flutter application.
 
