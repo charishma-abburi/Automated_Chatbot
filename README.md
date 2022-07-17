@@ -7,7 +7,7 @@ A new Flutter project.
 <img src="images/screenshot1.jpeg" width=200>
 
 <img src="images/screenshot2.jpeg" width=200>
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
